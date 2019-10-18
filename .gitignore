@@ -1,3 +1,4 @@
 #Ignora todos los arhivos .a
 *.a
 password.txt
+#hola saludos
