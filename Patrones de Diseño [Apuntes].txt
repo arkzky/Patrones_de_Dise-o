@@ -1,0 +1,10 @@
+Adapter
+	Permite que una clase pueda comprender la solicitud que le hace otra clase [Conectar un sistema con una nueva funcionalidad]
+Builder
+	Permite la creacion de objetos mediante funciones [Creacion de recetas]
+Singleton
+	Permite inicializar una vez una serie de instrucciones y configuraciones [Inicializacion del sistema]
+Decorator
+	Agregar funcionalidades sin herencia [Organizar tipos de Productos o Servicios]
+Facade
+	Otorga un un punto de acceso más directo a la instanciacion de varias clases a lo largo de todo el sistema [Backend de una Interfaz que pide servicios a terceros]
